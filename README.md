@@ -7,7 +7,7 @@
 
 ![elffont-cover](/assets/elffont-cover.jpg)
 
-重新定義ㄅㄆㄇ！台灣人才懂的史詩注音字型
+**重新定義ㄅㄆㄇ！台灣人才懂的史詩注音字型**
 
 本文摘錄自《精靈文研究導論：只在ㄊㄨ使用的ㄓㄧㄨ系統》
 
@@ -23,7 +23,7 @@
 
 ## 做作的Daphne X justfont 隆重推出「精靈文」字體
 
-2024/8 書法家 [做作的Daphne](https://www.facebook.com/dramadaphne) 在社群上分享了數張「精靈文」草稿，並在貼文中表達未來開放下載使用的預期。作為字型公司的 justfont 以字型化協力的角色加入計畫，共同完成「精靈文」。旨在打造台灣人專屬的閱讀體驗。
+2024 年 8 月，書法家 [做作的Daphne](https://www.facebook.com/dramadaphne) 在社群上分享了數張「精靈文」草稿，並在貼文中表達未來開放下載使用的預期。作為字型公司的 justfont 以字型化協力的角色加入計畫，共同完成「精靈文」。旨在打造台灣人專屬的閱讀體驗。
 
 畢竟只有台灣人看得懂ㄉ注音文，都被拿去當成手遊的精靈文來用ㄌ，你各位台灣人不想真的用用看精靈文ㄇ？
 
@@ -54,25 +54,25 @@
 ### 下載
 
 
-- 請選擇風格，直接下載：[精靈文．岩](https://github.com/justfont/Elffont/blob/main/fonts/elffont-rock.otf)、[精靈文．蕨](https://github.com/justfont/Elffont/blob/main/fonts/elffont-fern.otf)
-- 或是點選本頁面右側「[Releases](https://github.com/justfont/Elffont/releases)」處的最新發行版本，按照自己的需求下載 Elffont 開頭的 otf 字型檔案安裝
+- 請選擇風格，直接下載：[精靈文．岩](https://github.com/justfont/Elffont/releases/download/v1.0/elffont-rock.otf)、[精靈文．蕨](https://github.com/justfont/Elffont/releases/download/v1.0/elffont-fern.otf)
+- 或是點選本頁面右側「[Releases](https://github.com/justfont/Elffont/releases)」處的最新發行版本，按照自己的需求下載 `elffont` 開頭的 otf 字型檔案安裝。
 
 ### 使用
 
-- 電腦下載安裝後，請直接輸入注音文使用，例如 `ㄓㄜˋ ㄧㄤˋ` 就可以呈現ㄌ（打漢字顯示不出來是正常ㄉ）
-- 手機可使用第三方字型軟體進行安裝匯入，輸入時，直接選擇注音文（打漢字顯示不出來是正常ㄉ）
-- 「精靈文．蕨」包含替換字符，Pages、Keynote、Adobe Illustrator, Adobe Photoshop、Microsoft Word 等多數文書與設計軟體皆可支援，設定方式請參考 [justfont blog 教學](https://blog.justfont.com/2023/11/alternateglyphs_tutorial/)。
+- 電腦下載安裝後，請直接輸入注音文使用，例如 `ㄓㄜˋ ㄧㄤˋ` 就可以呈現ㄌ（打漢字顯示不出來是正常ㄉ）。
+- 手機可使用第三方字型軟體進行安裝匯入，輸入注音後，直接選擇注音文（打漢字顯示不出來是正常ㄉ）。
+- 「精靈文．蕨」包含替換字符，Pages、Keynote、Adobe Illustrator、Adobe Photoshop、Microsoft Word 等多數文書與設計軟體皆可支援，設定方式請參考 [justfont blog 教學](https://blog.justfont.com/2023/11/alternateglyphs_tutorial/)。
 - 也可以使用 justfont 推出的[特殊字體轉換器](https://bit.ly/4hrJtkw)，輸入漢字即可召喚精靈文。
-- 至於注音文怎麼解讀，不用教ㄌㄅ
+- 至於注音文怎麼解讀，不用教ㄌㄅ！
 
 ![how-to-read-elffont](/assets/how-to-read-elffont.jpg)
 
 ## 授權規範
 
 - 本字型之智慧財產權為「做作的Daphne」與「justfont」共同所有。
-- 不需付費、知會作者，即可自由使用此字型，亦可做商業應用。
-- 不得直接販售本字型，亦不得製作為字帖釋出或銷售。
-- 本字型未經准許，禁止進行修改或重製、販售。
+- **不需付費、知會作者，即可自由使用此字型，亦可做商業應用。**
+- **不得直接販售本字型，亦不得製作為字帖釋出或銷售。**
+- **本字型未經准許，禁止進行修改或重製、販售。**
 - 對本字型的下載、安裝、與安裝後相關之問題，及可能導致之一切損害，製作團隊皆不承擔相關責任。
 - 製作團隊不擔保字型內容，請自行確認文字之正確性。
 - 「做作的Daphne」與「justfont」保留隨時修改、變更、暫停或終止本內容之權利。
@@ -107,7 +107,7 @@
 
 ### 小孩子也看得懂
 
-用幼稚園生也看得懂的注音，設計出全新風格的兒童物品！
+還在等你的入學通知單嗎？不如自己做一份！
 
 ![](/assets/elffont-case-7.jpg)
 
