@@ -1,6 +1,8 @@
 
 <div align='center'>
 
+![](https://img.shields.io/github/v/release/justfont/Elffont?label=Latest&style=flat-square) ![](https://img.shields.io/github/downloads/justfont/Elffont/total?label=Downloads&style=flat-square) ![](https://img.shields.io/github/release-date/justfont/Elffont?label=Updated&style=flat-square&color=red) ![](https://img.shields.io/github/stars/justfont/Elffont?style=flat-square&color=yellowgreen&label=Stars)
+
 # 精靈文 Elffont
 
 ![elffont-cover](/assets/elffont-cover.jpg)
@@ -51,8 +53,9 @@
 
 ### 下載
 
-- 請選擇風格，直接下載：精靈文．岩、精靈文．蕨
-- 或是點選本頁面右側「Releases」處的最新發行版本，按照自己的需求下載 Elffont 開頭的 otf 字型檔案安裝
+
+- 請選擇風格，直接下載：[精靈文．岩](https://github.com/justfont/Elffont/blob/main/fonts/elffont-rock.otf)、[精靈文．蕨](https://github.com/justfont/Elffont/blob/main/fonts/elffont-fern.otf)
+- 或是點選本頁面右側「[Releases](https://github.com/justfont/Elffont/releases)」處的最新發行版本，按照自己的需求下載 Elffont 開頭的 otf 字型檔案安裝
 
 ### 使用
 
